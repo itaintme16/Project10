@@ -1,10 +1,9 @@
 
 ## Slab And Prism Refractore
 ----------------------------
-#### Team Name:-ENIAC
+#### Team Name:-Apex
 #### Team Members:-
-- Shubhanshu Agrawal IMT2020078
-- Vyom Sharma IMT2020026
+- Priyanshu Choudhary
 
 ### Idea Of Project 
 --------------------
